@@ -24,7 +24,7 @@
         \vfill
 
         \begingroup
-            A dissertation submitted to attain the degree of\\
+            A thesis submitted to attain the degree of\\
             \vspace{1em}
             \spacedlowsmallcaps{Doctor of Sciences}\\
             (Dr.\ sc.\ ETH Zurich)
@@ -45,11 +45,11 @@
         \begingroup
             accepted on the recommendation of\\
             \vspace{1em}
-            Prof.\ Dr.\ D. Kaufmann, examiner\\
-            Prof.\ em.\ Dr.\ K. W. Axhausen, co-examiner\\
-            Prof.\ Dr.\ T. Bernauer, co-examiner\\
-            Prof.\ Dr.\ M. Bierlaire, co-examiner\\
-            Prof.\ Dr.\ S. Hess, co-examiner
+            Prof.\ Dr.\ David Kaufmann\\
+            Prof.\ Dr.\ Michel Bierlaire\\
+            Prof.\ Dr.\ Stephane Hess\\
+            Prof.\ Dr.\ Thomas Bernauer\\
+            Prof.\ em.\ Dr.\ Kay W. Axhausen
         \endgroup
 
         \vfill
